@@ -1,6 +1,6 @@
-# ComparablesTool-Frontend
+# Custom-Components-Frontend
 
-Client app for comparables manager
+Client app for custom components manager
 
 ## Development
 
